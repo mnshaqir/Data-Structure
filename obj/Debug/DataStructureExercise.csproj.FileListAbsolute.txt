@@ -1,0 +1,8 @@
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\bin\Debug\DataStructureExercise.exe.config
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\bin\Debug\DataStructureExercise.exe
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\bin\Debug\DataStructureExercise.pdb
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\obj\Debug\DataStructureExercise.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\obj\Debug\DataStructureExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\obj\Debug\DataStructureExercise.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\obj\Debug\DataStructureExercise.exe
+C:\Users\PSCAD\Desktop\Hello\Data Structure\DataStructureExercise\DataStructureExercise\obj\Debug\DataStructureExercise.pdb
